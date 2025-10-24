@@ -1,0 +1,29 @@
+# Ghostty Theme (converted from VS Code)
+
+# Regular colors
+palette = 0=#2e2e2e
+palette = 1=#d99898
+palette = 2=#8db98d
+palette = 3=#b9ac72
+palette = 4=#92C4EC
+palette = 5=#b3a1d6
+palette = 6=#6cbbbf
+palette = 7=#eaead3
+
+# Bright colors
+palette = 8=#505050
+palette = 9=#ffbcbc
+palette = 10=#b1deb1
+palette = 11=#ded196
+palette = 12=#a4d7ff
+palette = 13=#d8c5fc
+palette = 14=#91e0e4
+palette = 15=#fefee7
+
+# Text and cursor
+foreground = #eaead3
+background = #383838
+cursor-color = #fefee7
+
+selection-background = #746956
+selection-foreground = #eaead3
